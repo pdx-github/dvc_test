@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = ssh://root@66.98.119.72:27577/root/data
+    ask_password = true
